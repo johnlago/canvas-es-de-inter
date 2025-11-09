@@ -151,7 +151,7 @@ based on 2560x1080
             <visible>${metadataExtended}</visible>
             <zIndex>4</zIndex>
          </image>
-         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playcount-extended">
+         <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playtime-extended">
             <visible>${metadataExtended}</visible>
             <fontSize>${metaDatafontSize}</fontSize>
          </text>
@@ -184,7 +184,7 @@ based on 2560x1080
          <datetime name="game-lastplayed-extended">
             <size>0.0935 ${metaDatafontSize}</size>
          </datetime>
-         <text name="game-playcount-extended">
+         <text name="game-playtime-extended">
             <size>0.0935 ${metaDatafontSize}</size>
          </text>
          <!-- End: Extended Metadata -->
@@ -346,7 +346,7 @@ based on 2560x1080
          <datetime name="game-lastplayed-extended">
             <pos>0.3698 0.549</pos>
          </datetime>
-         <text name="game-playcount-extended">
+         <text name="game-playtime-extended">
             <pos>0.3698 0.615</pos>
          </text>
          <!-- End: Extended Metadata -->
@@ -420,7 +420,7 @@ based on 2560x1080
          <datetime name="game-lastplayed-extended">
             <pos>0.8698 0.549</pos>
          </datetime>
-         <text name="game-playcount-extended">
+         <text name="game-playtime-extended">
             <pos>0.8698 0.615</pos>
          </text>
          <!-- End: Extended Metadata -->
