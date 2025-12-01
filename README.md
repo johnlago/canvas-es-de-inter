@@ -1,7 +1,7 @@
 # Canvas (ES-DE Version) - Inter variation
 Canvas is a theme for EmulationStation-DE theme that aims to provide a minimal interface with a large variety of color schemes and styles. It also provides easy customization for users to swap out wallpapers to their own liking.
 
-This fork makes just one change: rather than using the opinionated and fun font choices of the original, this version uses [Inter](https://rsms.me/inter/)), a more neutral font that works in UI elements all the way up to display sizes.
+This fork makes just one change: rather than using the opinionated and fun font choices of the original, this version uses [Inter](https://rsms.me/inter/), a more neutral font that works in UI elements all the way up to display sizes.
 
 ## **Preview**
 
