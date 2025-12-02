@@ -459,7 +459,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
             <origin>1 0.5</origin>
             <size>${grid-name-w} ${grid-name-h}</size>
             <pos>${grid-name-x} ${grid-name-y}</pos>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <fontSize>${base-font-size}</fontSize>
             <color>${gridNameColor}</color>
             <lineSpacing>1.3</lineSpacing>
@@ -623,7 +623,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
                   <unfocusedItemDimming>0.85</unfocusedItemDimming>
                   <unfocusedItemSaturation>1</unfocusedItemSaturation>
                   <textColor>${gamelistPrimaryColor}</textColor>
-                  <fontPath>${fontBold}</fontPath>
+                  <fontPath>${fontRegular}</fontPath>
                   <fontSize>0.036111111111111</fontSize>
                   <selectorColor>${gridSelectorColor}</selectorColor>
                   <selectorLayer>top</selectorLayer>
@@ -710,7 +710,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
       grid-textlist,grid-textlist-flipped,carousel-textlist,carousel-textlist-flipped">
       <view name="gamelist">
       <textlist name="game-list">
-         <fontPath>${fontBold}</fontPath>
+         <fontPath>${fontRegular}</fontPath>
          <selectorImagePath>${selectorpath}</selectorImagePath>
          <selectorColor>${gamelistSelectorColor}</selectorColor>
          <selectedColor>${gamelistSelectedColor}</selectedColor>
@@ -782,7 +782,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <unfocusedItemSaturation>1</unfocusedItemSaturation>
          <itemSpacing>0 0</itemSpacing>
          <textColor>ffffff</textColor>
-         <fontPath>${fontBold}</fontPath>
+         <fontPath>${fontRegular}</fontPath>
          <fontSize>0.02111111111111</fontSize>
          <imageCornerRadius>0.004</imageCornerRadius>
          <selectorColor>${gridSelectorColor}</selectorColor>
@@ -853,14 +853,14 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          </rating>
          <datetime name="game-releasedate-extended,game-lastplayed-extended">
             <origin>0 0.5</origin>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
 
          </datetime>
          <text name="game-name-extended,game-players-extended,game-genre-extended,game-developer-extended,game-publisher-extended,game-playtime-extended,game-name-extended">
             <origin>0 0.5</origin>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1.5</lineSpacing>
             <defaultValue>Unknown</defaultValue>
@@ -915,7 +915,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          <text name="game-name-base">
             <origin>0 0.5</origin>
             <metadata>name</metadata>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <color>${gameMetadataColor}</color>
             <container>true</container>
             <containerType>horizontal</containerType>
@@ -931,7 +931,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          </rating>
          <datetime name="game-releasedate-base">
             <origin>0 0.5</origin>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <metadata>releasedate</metadata>
@@ -941,7 +941,7 @@ license:                Attribution-NonCommercial-ShareAlike 2.0 (CC-BY-NC-SA)
          </datetime>
          <text name="game-genre-base">
             <origin>0 0.5</origin>
-            <fontPath>${fontBold}</fontPath>
+            <fontPath>${fontRegular}</fontPath>
             <color>${gameMetadataColor}</color>
             <lineSpacing>1</lineSpacing>
             <defaultValue>Unknown</defaultValue>
